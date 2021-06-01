@@ -32,3 +32,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ![Screenshot from 2020-07-02 10-09-34](https://user-images.githubusercontent.com/38497682/86317200-771ac180-bc4c-11ea-8c3b-5535f3870eaf.png)
 
 ![Screenshot from 2020-07-02 10-11-35](https://user-images.githubusercontent.com/38497682/86317204-7a15b200-bc4c-11ea-904e-2ea198e0b6dd.png)
+
+# other
+yarn add image-mosaic -D

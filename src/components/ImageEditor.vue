@@ -18,6 +18,14 @@ export default {
     return {
       useDefaultUI: true,
       options: {
+        includeUI: {
+          loadImage: {
+            path: 'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic26.nipic.com%2F20130115%2F8952533_013300701165_2.jpg&refer=http%3A%2F%2Fpic26.nipic.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1625141261&t=58fa8a2e8eb2e0549a6fe10c481d3faa',
+            name: 'SampleImage',
+          },
+          initMenu: 'filter',
+          menuBarPosition: 'bottom',
+        },
         cssMaxWidth: window.innerWidth,
         cssHeight: 800,
         initMenu: "filter"
